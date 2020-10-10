@@ -1,0 +1,2 @@
+create database testdb;
+create table player_record  (name varchar(),wins int,losses int,draws int);
