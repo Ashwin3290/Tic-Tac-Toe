@@ -1,2 +1,3 @@
+paste these lines in your mysql client one-by-one 
 create database testdb;
 create table player_record  (name varchar(),wins int,losses int,draws int);
